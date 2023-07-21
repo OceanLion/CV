@@ -1,0 +1,33 @@
+body {
+  background-color: #47B5FF;
+}
+
+hr {
+  color: Black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 10%;
+}
+
+img {
+  border-top-left-radius: 80px 80px;
+  border-top-right-radius: 80px 80px;
+  border-bottom-left-radius: 80px 80px;
+  border-bottom-right-radius: 80px 80px;
+}
+
+h1 {
+  color: #DFF6FF;
+  text-decoration: overline;
+  text-decoration-color: #1363DF;
+}
+
+h3 {
+  color: #1363DF;
+  vertical-align: text-bottom;
+}
+
+p {
+  color: #06283D
+}
